@@ -63,5 +63,6 @@ class Complex
             c3.add(c1,c2); //3rd add
             c3.show();
             Complex q=c1.add2(6,12);
+            q.show();
         }
     
