@@ -4,8 +4,8 @@ using namespace std;
 int main(){
     vector<int>numbers={10,34,24,97,54};
     cout<<"elements of the collection are:"<<endl;;
-    for(auto num:numbers) {
-    cout<<num<<" ";
+    for(auto element:numbers) {
+    cout<<element<<" ";
 }
    cout<< endl;
    return 0;
